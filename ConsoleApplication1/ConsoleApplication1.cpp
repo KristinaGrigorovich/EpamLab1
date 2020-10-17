@@ -95,7 +95,7 @@ int main()
 
 	print(n, one);
 
-	cout << "******************" << endl;
+	cout << "*********" << endl;
 
 	student1(n, one);
 	student2(n, one);
